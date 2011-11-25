@@ -3,11 +3,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
                       http://maven.apache.org/maven-v4_0_0.xsd">
 
-  <modelVersion>1.0</modelVersion>
+  <modelVersion>4.0.0</modelVersion>
   <groupId>Tigers</groupId>
   <artifactId>Tigers</artifactId>
-  <packaging>jar</packaging>
   <version>1.0</version>
+  <packaging>pom</packaging>
   <name>Test Project</name>
 
   <modules>
