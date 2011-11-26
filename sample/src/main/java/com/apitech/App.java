@@ -16,6 +16,9 @@ public class App {
         return testString;
     }
 
+    /**
+     * Standard setter
+     */
     public void setTestString(String tes1String) {
         this.testString = tes1String;
     }
