@@ -1,7 +1,7 @@
 package com.apitech;
 
 /**
- * Hello world!
+ * Hello worhld!
  */
 public class App {
 
