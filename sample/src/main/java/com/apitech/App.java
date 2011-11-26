@@ -16,7 +16,7 @@ public class App {
         return testString;
     }
 
-    public void setTestString(String testString) {
-        this.testString = testString;
+    public void setTestString(String tes1String) {
+        this.testString = tes1String;
     }
 }
