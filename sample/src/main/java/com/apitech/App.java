@@ -5,18 +5,8 @@ package com.apitech;
  */
 public class App {
 
-    /**
-     * Test String
-     */
+    /** Test String */
     private String testString;
-
-    /**
-     * Entry for running application
-     * @param args Not used
-     */
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
 
     /**
      * Standard getter
